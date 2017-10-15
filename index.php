@@ -11,7 +11,7 @@ include_once ('header.php');
 ?>
 <nav class="blue lighten-2" role="navigation">
     <div class="nav-wrapper container">
-        <a href="#" class="brand-logo">南京理工大学微软学生俱乐部&nbsp;财务管理系统</a>
+        <a href="./index.php" class="brand-logo">南京理工大学微软学生俱乐部&nbsp;财务管理系统</a>
         <ul id="nav-mobile" class="right hide-on-med-and-down">
             <li><a href="./manage.php">管理后台</a></li>
         </ul>
