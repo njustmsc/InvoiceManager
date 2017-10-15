@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="bfaeb3aa-0f22-4e25-b61e-8a4587607e82" name="Raspberry Pi 2" url="http://10.0.0.2">
+        <fileTransfer host="10.0.0.2" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions controlEncoding="UTF-8" dataProtectionLevel="Private" muteSftpMessages="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
